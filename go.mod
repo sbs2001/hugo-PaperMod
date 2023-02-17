@@ -1,3 +1,3 @@
-module github.com/adityatelange/hugo-PaperMod
+module github.com/sbs2001/hugo-PaperMod
 
 go 1.12
